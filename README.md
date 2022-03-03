@@ -40,7 +40,7 @@ You can add keywords onto the end of the search as well, this often works well w
 
 ### Notes
 
- * You can use a "`*`" as a wild card so search for say "Snake`*`" will pick up both "Snake" and "Snakes" which can be useful for searching for stickers.
+ * You can use a "`*`" as a wild card so search for say "`Snake*`" will pick up both "Snake" and "Snakes" which can be useful for searching for stickers.
  * One way to identify torsos is to use the colour of the arms/hands (if they are unprinted) - use "Appears in multiple" and look for arms (982 - right arm) and hands (983) and restrict to "minifigs" to cut your search space - obviously yellow/flesh it is less useful... - If the right arm is printed you can use 981 - left arm (as you look at minifig)
 
 ## Finding something made up of multiple parts from a single set.
