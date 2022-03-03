@@ -47,7 +47,11 @@ You can add keywords onto the end of the search as well, this often works well w
 
 To find something made up of multiple parts - e.g. a small chunk of a bricks together - or a bag - you can use the "appears in" option at the top of the parts page.
 
- * Here - start with "rare" parts or colours - these will reduce the search space.
+https://www.bricklink.com/catalogIn.asp?viewMulti=Y
+
+ * The tool requires you to know part numbers - you will get these from other searches in bricklink
+ * Start with "rare" parts or colours - these will reduce the search space - you will take time to work out what these are.
+   * For colours look at https://www.bricklink.com/catalogColors.asp?utm_content=subnav to give you an idea of the rarity of the colour.
  * Choose pieces of different colours if you can - be aware of the issues that Gemma said about similar colours (easier if you are looking at the piece yourself and can compare against pieces of known colour - some photos make it really difficult!)
  * If you have grey/black/red say it is more likely to hone in on an answer than choosing say grey/grey/grey...
 
@@ -62,3 +66,4 @@ To find something made up of multiple parts - e.g. a small chunk of a bricks tog
  * Occam's Razor... if you find a piece from 1 set - and you find a piece that is in a few different sets - then it is more likely to be from the set you have just found...
  * Related - if you find a small chunk of a set or a minifig - look to see if you may have other pieces of it - this will often save you time...!
  * Even if not the same set - if you have a big lot of Star Wars LEGO then another piece is slightly more likely to be from a Star Wars set than another theme...
+ * If it says LEGO but doesn't look like LEGO it is probably Hero factory or Bionicle!
