@@ -50,14 +50,33 @@ To find something made up of multiple parts - e.g. a small chunk of a bricks tog
 https://www.bricklink.com/catalogIn.asp?viewMulti=Y
 
  * The tool requires you to know part numbers - you will get these from other searches in bricklink
- * Start with "rare" parts or colours - these will reduce the search space - you will take time to work out what these are.
+ * If you have any stickered/printed parts, look them up first. Quite often they only belong to one set!
+   * To find them, look up the part number and then search for it with an * added at the end. You can filter
+     by colour to narrow it down.
+   * If there are any words/numbers on the part they are quite often included in the description, so you
+     can add that to the search.
+   * **Caveat** - unfortunately this will only work with if the stickered version has been uploaded
+     to Bricklink, which isn't always the case.
+ * Then start with "rare" parts or colours - these will reduce the search space - you will take time to work out what these are.
    * For colours look at https://www.bricklink.com/catalogColors.asp?utm_content=subnav to give you an idea of the rarity of the colour.
  * Choose pieces of different colours if you can - be aware of the issues that Gemma said about similar colours (easier if you are looking at the piece yourself and can compare against pieces of known colour - some photos make it really difficult!)
  * If you have grey/black/red say it is more likely to hone in on an answer than choosing say grey/grey/grey...
+ * If you get too many matches try a different combination of 3!
+
+### Confirming you have the right set
+
+Often a look at the picture will confirm that you have the right set - sometimes this isn't possible so you will need to look at the instructions - you can find recent instructions (back to around 2000) on the Lego site at:
+
+ * https://www.lego.com/en-gb/service/buildinginstructions/
+
+For older instructions you may find them on Brick Instructions:
+
+ * https://lego.brickinstructions.com/en/search/general/new
 
 ### Caveats
- * 3-in-1's or Technic with B-models you may find that the pieces don't appear in the main picture for a set....
+ * 3-in-1's or Technic with B-models you may find that the pieces don't appear in the main picture for a set.... You may need to go through the set
  * Mixels were designed to be mixed and so you may find pieces which are made up of multiple mixel sets...
+ * If you match a "classic set" it is worth digging into the "examples" in the instructions - although it may be someone's MOC...
  * You may find that a pile of bricks has a few "rogue" bits added to it - so try different combinations of 3 parts to match!
  * Watch out for parts which have different moulds - like clips - they may be best to be avoided unless you can clearly identify which particular variant you have
 
